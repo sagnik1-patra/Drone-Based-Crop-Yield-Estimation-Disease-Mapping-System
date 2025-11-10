@@ -1,0 +1,5 @@
+best_params:
+  dropout_rate: 0.29954499196072204
+  filters: 134
+  learning_rate: 0.0017216905608905516
+optimizer: Hybrid AIS+CSA
